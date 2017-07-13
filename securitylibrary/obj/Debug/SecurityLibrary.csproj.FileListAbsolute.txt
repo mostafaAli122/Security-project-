@@ -1,0 +1,5 @@
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb

@@ -1,0 +1,7 @@
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+F:\4th year\2nd semester\Crisis Management\sec\package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
